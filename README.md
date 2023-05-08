@@ -1,4 +1,3 @@
-&nbsp
 
 ### Exercícios para treino de lógica de programação, em Java, com a impressão de caracteres.
 
